@@ -9,4 +9,5 @@ Problem Num | Name | File
 58 | Length of Last Word | [58](58.swift)
 136 | Single Number | [136](136.swift)
 461 | Hamming Distance | [461](461.swift)
+532 | K-diff Pairs in an Array | [532](532.swift)
 540 | Single Element in a Sorted Array | [540](540.swift)

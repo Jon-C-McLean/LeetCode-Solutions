@@ -2,6 +2,7 @@
 Problem Num | Name | File
 ----------- | ---- | -----
 1 | Two Sum | [1](1.swift)
+2 | Add Two Numbers | [2](2.swift)
 9 | Palindrome Number | [9](9.swift)
 20 | Valid Parentheses | [20](20.swift)
 26 | Remove Duplicates from Sorted Array | [26](26.swift)

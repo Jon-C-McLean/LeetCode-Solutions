@@ -12,3 +12,4 @@ Problem Num | Name | File
 461 | Hamming Distance | [461](461.swift)
 532 | K-diff Pairs in an Array | [532](532.swift)
 540 | Single Element in a Sorted Array | [540](540.swift)
+560 | Subarray Sum Equals k | [560](560.swift)

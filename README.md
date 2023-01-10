@@ -8,6 +8,7 @@ Problem Num | Name | File
 26 | Remove Duplicates from Sorted Array | [26](26.swift)
 27 | Remove Element | [27](27.swift)
 58 | Length of Last Word | [58](58.swift)
+100 | Same Tree | [100](100.swift)
 136 | Single Number | [136](136.swift)
 144 | Binary Tree Preorder Traversal | [144](144.swift)
 145 | Binary Tree Postorder Traversal | [145](145.swift)
